@@ -11,5 +11,6 @@ This project uses the GitHub API to scrape users in Melbourne with over 100 foll
 
 - `users.csv`: Contains information about each user.
 - `repositories.csv`: Contains information about each user's repositories.
+- `TDSProject1.ipynb` : Contains python script for obtaining the answers
 
 
